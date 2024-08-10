@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseTheOps.OpsyDopsy.Engine", "src\UseTheOps.OpsyDopsy.Engine\UseTheOps.OpsyDopsy.Engine.csproj", "{3DBF2FF3-7BDD-4935-A2F0-84947781E545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseTheOps.OpsyDopsy.WebSite", "src\UseTheOps.OpsyDopsy.WebSite\UseTheOps.OpsyDopsy.WebSite.csproj", "{DC7E927F-41AF-4335-9E97-EF85A972F59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBF2FF3-7BDD-4935-A2F0-84947781E545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBF2FF3-7BDD-4935-A2F0-84947781E545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBF2FF3-7BDD-4935-A2F0-84947781E545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBF2FF3-7BDD-4935-A2F0-84947781E545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7E927F-41AF-4335-9E97-EF85A972F59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7E927F-41AF-4335-9E97-EF85A972F59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7E927F-41AF-4335-9E97-EF85A972F59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7E927F-41AF-4335-9E97-EF85A972F59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DCF6B7A-18BC-4A5E-88D4-342D6B5BDCE8}
+	EndGlobalSection
+EndGlobal
